@@ -1,0 +1,26 @@
+{
+  "name": "angular-underscorejs",
+  "homepage": "https://github.com/Xen3r0/angular-underscorejs",
+  "authors": [
+    "Manuel Santisteban <xen3r0@gmail.com>"
+  ],
+  "description": "Wrapper underscorejs with AngularJS",
+  "main": "angular-underscorejs.js",
+  "keywords": [
+    "angular",
+    "underscorejs",
+    "wrapper"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "angular": "angularjs#^1.5.8"
+  }
+}
