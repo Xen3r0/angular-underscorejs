@@ -5,7 +5,7 @@
     "Manuel Santisteban <xen3r0@gmail.com>"
   ],
   "description": "Wrapper underscorejs with AngularJS",
-  "main": "angular-underscorejs.js",
+  "main": "angular-underscore.js",
   "keywords": [
     "angular",
     "underscorejs",
