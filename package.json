@@ -1,0 +1,22 @@
+{
+  "name": "angular-underscorejs",
+  "version": "1.0.1",
+  "description": "Wrapper underscorejs with AngularJS",
+  "main": "angular-underscore.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xen3r0/angular-underscorejs.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "underscorejs",
+    "wrapper"
+  ],
+  "author": "Manuel Santisteban <xen3r0@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xen3r0/angular-underscorejs/issues"
+  },
+  "homepage": "https://github.com/Xen3r0/angular-underscorejs#readme"
+}
