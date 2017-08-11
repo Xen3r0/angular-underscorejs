@@ -5,6 +5,11 @@
  * @url https://github.com/Xen3r0/angular-underscorejs
  * @license MIT
  */
+
+if (typeof require === 'function') {
+    var _ = require('underscore/underscore');
+}
+
 (function (angular, _) {
     var isolate_ = angular.copy(_);
 
